@@ -8,5 +8,10 @@ When you die in the game, your score will be shown on a game-over splash screen 
 
 Please feel free to look through the code and use it however you want. This project was created in less than 24hrs as part of a mini-jam so it's deliberately incomplete! Tweet [@not_reuty](https://twitter.com/not_reuty) for questions!
 
+## Screenshots
+![menu](https://github.com/not-reuty/jumpy/blob/master/jumpy_menu.png)
+
+![gameplay](https://github.com/not-reuty/jumpy/blob/master/jumpy_gameplay.png)
+
 ## Assets
 This project uses sprites from [kenney.nl](https://kenney.nl/), and the [Chewy font from Google Fonts](https://fonts.google.com/specimen/Chewy?category=Sans+Serif,Display,Handwriting#license).
